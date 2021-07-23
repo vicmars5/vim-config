@@ -9,3 +9,4 @@ let g:NERDDefaultAlign = 'left'
 
 set number
 set relativenumber
+set foldmethod=syntax
