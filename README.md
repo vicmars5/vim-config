@@ -12,3 +12,9 @@ cd nvim
 git submodule init
 git submodule udpate
 ```
+
+## Add new plugins
+
+``` sh
+git submodule add $REPO_URL bundle/$REPO_NAME
+```
